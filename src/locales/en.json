@@ -1,0 +1,11 @@
+{
+  "loginTitle": "Login",
+  "username": "Username",
+  "password": "Password",
+  "loginButton": "Log in",
+  "usernameRequired": "Username is required",
+  "passwordRequired": "Password is required",
+  "passwordMinLength": "Password must be at least 8 characters long",
+  "loginSuccess": "Login successful",
+  "wrongLogin": "Wrong username or password"
+}

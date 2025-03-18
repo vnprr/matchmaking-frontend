@@ -1,0 +1,11 @@
+{
+  "loginTitle": "Logowanie",
+  "username": "Nazwa użytkownika",
+  "password": "Hasło",
+  "loginButton": "Zaloguj",
+  "usernameRequired": "Nazwa użytkownika jest wymagana",
+  "passwordRequired": "Hasło jest wymagane",
+  "passwordMinLength": "Hasło musi mieć co najmniej 8 znaków",
+  "loginSuccess": "Logowanie powiodło się",
+  "wrongLogin": "Błędna nazwa użytkownika lub hasło"
+}
